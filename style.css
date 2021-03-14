@@ -2,6 +2,7 @@ body{
     font-weight: 600;
     font-family: 'Lora', serif;
     justify-content: center;
+    background-image: url("./img/pic2.jpg");
 }
 .Control{
     margin-top: 12px;
